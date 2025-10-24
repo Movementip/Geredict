@@ -24,7 +24,7 @@
 		"@babel/core": "latest",
 		"@babel/preset-react": "latest",
 		"@types/isotope-layout": "^3.0.9",
-		"@types/react": "^18.0.28",
+		"@types/react": "^18.3.3",
 		"@types/react-dom": "^18.0.11",
 		"autoprefixer": "^10.4.19",
 		"babel-loader": "latest",
@@ -90,7 +90,7 @@
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
-		"react": "^18.2.0",
+		"react": "^18.3.1",
 		"react-dom": "^18.2.0",
 		"simplebar": "latest"
 	}
